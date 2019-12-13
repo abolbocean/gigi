@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,Accent TV
+#EXTGRP:unsorted
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0,Agro TV Moldova
+#EXTGRP:unsorted
+http://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
+#EXTINF:0,Bălți TV
+#EXTGRP:unsorted
+https://hls.btv.md/hls/live2.m3u8
+#EXTINF:0,НТВ Молдова
+#EXTGRP:unsorted
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:0,Prime
+#EXTGRP:unsorted
+http://91.230.214.75/LIVE/1/2000.m3u8
+#EXTINF:0,PRO TV Chișinău
+#EXTGRP:unsorted
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0,Publika TV
+#EXTGRP:unsorted
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:0,TV8
+#EXTGRP:unsorted
+http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1
+#EXTINF:0,TVR Moldova
+#EXTGRP:unsorted
+http://89.136.209.30:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0,JurnalTV
+#EXTGRP:unsorted
+http://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=570fa37366f6f3718bdf9e3f2f175b3f5263b43d
+#EXTINF:-1,Moldova 1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
