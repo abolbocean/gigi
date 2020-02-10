@@ -30,11 +30,22 @@ http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1
 http://89.136.209.30:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
 #EXTINF:0,JurnalTV
 #EXTGRP:unsorted
-https://live.cdn.jurnaltv.md/JurnalTV_HD/tracks-v1a1/mono.m3u8?token=e96372253f80835da157cf6efef149ac2f08fc0d
+http://212.0.215.115/JurnalTVHD/mpegts
 #EXTINF:-1,Moldova 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0,Moldova 2
 http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
 #EXTINF:0,Vocea Basarabiei TV
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
-
+#EXTINF:-1,RTR_MOLDOVA
+#EXTGRP:MD
+http://212.0.215.106/RTR/mpegts
+#EXTINF:-1,RENTV_MOLDOVA
+#EXTGRP:MD
+http://79.140.174.20:34011/ren
+#EXTINF:-1,N4
+#EXTGRP:MD
+http://212.0.215.115/N4/mpegts
+#EXTINF:-1,TVC21
+#EXTGRP:MD
+http://212.0.215.115/TVC21/mpegts
