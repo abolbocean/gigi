@@ -49,3 +49,5 @@ http://212.0.215.115/N4/mpegts
 #EXTINF:-1,TVC21
 #EXTGRP:MD
 http://212.0.215.115/TVC21/mpegts
+#EXTINF:0,Пятница (188.113.2019)
+http://188.113.190.12/9/playlist.m3u8
