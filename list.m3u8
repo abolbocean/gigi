@@ -38,14 +38,26 @@ http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
 #EXTINF:0,Vocea Basarabiei TV
 http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1,RTR_MOLDOVA
-#EXTGRP:MD
+#EXTGRP:unsorted
 http://212.0.215.106/RTR/mpegts
 #EXTINF:-1,RENTV_MOLDOVA
-#EXTGRP:MD
+#EXTGRP:unsorted
 http://79.140.174.20:34011/ren
 #EXTINF:-1,N4
-#EXTGRP:MD
+#EXTGRP:unsorted
 http://212.0.215.115/N4/mpegts
 #EXTINF:-1,TVC21
-#EXTGRP:MD
+#EXTGRP:unsorted
 http://212.0.215.115/TVC21/mpegts
+#EXTINF:0,ТНТ HD (auto)
+#EXTGRP:unsorted
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:0,ТНТ4 (HD)
+#EXTGRP:unsorted
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:0,Супер HD
+#EXTGRP:unsorted
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:0,Пятница! HD (auto)
+#EXTGRP:unsorted
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
